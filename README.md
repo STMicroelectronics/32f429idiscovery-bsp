@@ -36,6 +36,4 @@ Below is the list of the BSP *component* drivers to be used with this BSP *board
 
 ## Troubleshooting
 
-If you have any issue with the **software content** of this repository, you can file an issue [here](https://github.com/STMicroelectronics/stm32f429i-discovery/issues/new/choose).
-
-For any other question related to the product, the tools, the environment, you can submit a post to the **ST Community** on the appropriate topic [page](https://community.st.com/s/topiccatalog).
+Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) guide.
